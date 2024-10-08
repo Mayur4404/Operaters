@@ -1,5 +1,5 @@
 # OperatersArithmetic
-_Operators AIM - To use operators to add two numbers.
+Operators AIM - To use operators to add two numbers.
 
 Software Used VS Code
 
